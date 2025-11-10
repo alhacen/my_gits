@@ -1,0 +1,2 @@
+<a href='javascript:(()=>{try{if([...document.getElementsByTagName("aside")].forEach(e=>e.style.display="none"),window.skipAdInterval)return;window.skipAdInterval=setInterval(function(){[...document.querySelectorAll("[data-radix-aspect-ratio-wrapper]")].forEach(e=>{e.children[0].setAttribute("class",""),e.querySelectorAll("img").forEach(e=>{e.src=e.src.split("?")[0]})})},1e3)}catch(e){}})();">Skip Ad</a>
+<p>drag this link to bookmark</p>
